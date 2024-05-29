@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:football_app/const/app_colors.dart';
-import 'package:football_app/const/app_styles.dart'; // Убедитесь, что стили импортированы правильно
-import 'package:football_app/const/model.dart'; // Убедитесь, что модель импортирована правильно
-import 'package:football_app/const/matches.dart'; // Убедитесь, что список матчей импортирован правильно
+import 'package:football_app/const/app_styles.dart';
+import 'package:football_app/const/model.dart';
+import 'package:football_app/const/matches.dart';
 import 'package:football_app/screens/match_info_screen.dart';
 import 'package:intl/intl.dart';
 import 'package:table_calendar/table_calendar.dart';
